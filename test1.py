@@ -3,7 +3,7 @@ def add(a, b):
 
 if __name__ == '__main__':
     x = 1
-    y = 2
+    y = 4
     z = add(x, y)
 
     print(x)
